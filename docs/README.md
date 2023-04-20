@@ -161,6 +161,7 @@ and instrument your .NET application using the provided Shell scripts.
 
 > **Note**
 > On macOS [`coreutils`](https://formulae.brew.sh/formula/coreutils) is required.
+> On Ubuntu `unzip` is required.
 
 Example usage:
 
